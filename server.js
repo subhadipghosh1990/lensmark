@@ -81,8 +81,6 @@ app.post('/sign', function (req, res) {
         });
       });
 
-
-
 });
 
 

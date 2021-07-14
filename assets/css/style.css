@@ -2504,7 +2504,8 @@ hero-btn {
 }
 
 .header-area .main-header {
-    padding: 0px 100px
+    padding: 0px 100px;
+    background-color: #333;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
@@ -6557,4 +6558,8 @@ del {
 
 .switch-wrap {
     margin-bottom: 10px
+}
+
+.adminForm{
+    min-height: 100vh;
 }
